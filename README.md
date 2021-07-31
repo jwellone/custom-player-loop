@@ -15,7 +15,7 @@ This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
 
 
 ## Authors
-**jwellone** Inc. [GitHub](https://github.com/jwellone/) / [Facebook](https://www.facebook.com/Jwellone-Inc-110584057879884/)
+**jwellone Inc.** [GitHub](https://github.com/jwellone/) / [Twitter](https://twitter.com/jwellone) / [Facebook](https://www.facebook.com/Jwellone-Inc-110584057879884/)
 
 Developer:
 - Yasuhiko Usui.
