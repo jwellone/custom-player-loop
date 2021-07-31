@@ -1,0 +1,18 @@
+{
+    "name": "UniExtensions.CustomPlayerLoop.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5cff48fbcd596481984194fabff4b895"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
