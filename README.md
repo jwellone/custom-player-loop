@@ -1,5 +1,8 @@
 # custom-player-loop(ver1.0.0)
-Can Customize the player loop from the settings window.
+Can customize the player loop from the settings window.
+
+This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
+
 
 # GET STARTED
 - Import the package.
@@ -10,11 +13,13 @@ Can Customize the player loop from the settings window.
 
 ![custom-player-loop](https://user-images.githubusercontent.com/85072161/127729662-977cf7e3-d3e4-4a62-aa2a-cd21bf75e64e.gif)
 
-# Author Info
-Created by Yasuhiko Usui
 
-facebook: https://www.facebook.com/Jwellone-Inc-110584057879884/
+## Authors
+**jwellone** Inc. [GitHub](https://github.com/jwellone/) / [Twitter](https://twitter.com/jwellone) / [Facebook](https://www.facebook.com/Jwellone-Inc-110584057879884/)
 
-# License
-This extension is under the [MIT License](https://github.com/jwellone/custom-player-loop/blob/main/LICENSE).
+Developer:
+- Yasuhiko Usui.
 
+
+## License
+This extension is under the [MIT License](https://github.com/jwellone/file-size-viewer/blob/main/LICENSE).
