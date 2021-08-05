@@ -1,25 +1,12 @@
-<p align="left"> 
-    <a href="https://github.com/jwellone/custom-player-loop/blob/main/LICENSE">
-        <img height="20" src="https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000&style=plastic">
-    </a>
-    <a href="https://github.com/jwellone">
-        <img height="20" src="https://img.shields.io/github/followers/jwellone?label=github&logo=github&style=plastic"/>
-    </a>
-    <a href="http://twitter.com/jwellone">
-        <img height="20" src="https://img.shields.io/twitter/follow/jwellone?label=Twitter&logo=twitter&style=plastic"/>
-    </a>
-    <a href="https://www.facebook.com/jwellone">
-        <img height="20" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=plastic"/>
-    </a>
-    <a>
-        <img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&style=plastic">
-    </a>
-    <a href="https://unity.com">
-        <img height="20" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&style=plastic">
-    </a>    
-</p>
+[![GitHub license](https://img.shields.io/github/license/jwellone/custom-player-loop.svg?style=plastic)](https://github.com/jwellone/custom-player-loop/blob/main/LICENSE)
+[![GitHub Release](https://img.shields.io/github/v/release/jwellone/custom-player-loop.svg?style=plastic)](https://GitHub.com/jwellone/custom-player-loop/releases/latest)
+[![Github All Releases](https://img.shields.io/github/downloads/jwellone/custom-player-loop/total?color=blue&style=plastic)](https://GitHub.com/jwellone/custom-player-loop/releases)
+![GitHub repo size](https://img.shields.io/github/repo-size/jwellone/custom-player-loop?label=size&style=plastic)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&style=plastic)
+[![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&style=plastic)](https://unity.com)
 
-# custom-player-loop(ver1.0.0)
+
+# custom-player-loop
 Can customize the player loop from the settings window.
 
 This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
@@ -38,3 +25,8 @@ This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
 ## Authors
 Developer:[Yasuhiko Usui.](https://github.com/UsuiYasuhiko-jw1)
 
+[![GitHub watchers](https://img.shields.io/github/watchers/jwellone/custom-player-loop.svg?style=social&label=Watch)](https://GitHub.com/jwellone/custom-player-loop/watchers/)
+[![GitHub stars](https://img.shields.io/github/stars/jwellone/custom-player-loop.svg?style=social&label=Stars)](https://GitHub.com/jwellone/custom-player-loop/stargazers)
+[![GitHub fork](https://img.shields.io/github/forks/jwellone/custom-player-loop.svg?style=social&label=Fork)](https://GitHub.com/jwellone/custom-player-loopt/network/members)
+[![Twitter](https://img.shields.io/twitter/follow/jwellone?label=Twitter&logo=twitter&style=social)](http://twitter.com/jwellone)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=plastic)](https://www.facebook.com/jwellone)
