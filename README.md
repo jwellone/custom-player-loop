@@ -9,7 +9,7 @@
 # custom-player-loop
 Can customize the player loop from the settings window.
 
-This feature is one of the "UniExtensions" developed by jwellone Inc for Unity.
+This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
 
 ## GET STARTED
