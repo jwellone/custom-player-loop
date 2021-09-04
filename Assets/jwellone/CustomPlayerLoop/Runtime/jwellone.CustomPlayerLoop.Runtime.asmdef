@@ -1,6 +1,5 @@
 {
-    "name": "UniExtensions.CustomPlayerLoop.Runtime",
-    "rootNamespace": "",
+    "name": "jwellone.CustomPlayerLoop.Runtime",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

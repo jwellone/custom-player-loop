@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace UniExtension
+namespace jwellone
 {
 	public class CustomPlayerLoopSettings : ScriptableObject
 	{

@@ -1,6 +1,5 @@
 {
-    "name": "UniExtensions.CustomPlayerLoop.Editor",
-    "rootNamespace": "",
+    "name": "jwellone.CustomPlayerLoop.Editor",
     "references": [
         "GUID:5cff48fbcd596481984194fabff4b895"
     ],

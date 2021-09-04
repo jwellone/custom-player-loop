@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace UniExtension.Editor
+namespace jwellone.Editor
 {
 	[CustomEditor(typeof(CustomPlayerLoopSettings))]
 	public class CustomPlayerLoopSettingsInspector : UnityEditor.Editor

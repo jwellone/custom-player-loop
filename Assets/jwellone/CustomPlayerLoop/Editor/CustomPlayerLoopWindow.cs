@@ -8,7 +8,7 @@ using UnityEditor;
 using UnityEngine.LowLevel;
 using UnityEngine.Profiling;
 
-namespace UniExtension.Editor
+namespace jwellone.Editor
 {
 	public class CustomPlayerLoopWindow : EditorWindow
 	{
@@ -124,7 +124,7 @@ namespace UniExtension.Editor
 		private readonly Dictionary<Type, string> _dicSmplerTag = new Dictionary<Type, string>();
 		private readonly Dictionary<Type, string> _dicPrefsFoldouts = new Dictionary<Type, string>();
 
-		[MenuItem("UniExtensions/Window/Custom Player Loop")]
+		[MenuItem("jwellone/Window/Custom Player Loop")]
 		public static void Open()
 		{
 			var window = (CustomPlayerLoopWindow)EditorWindow.GetWindow(typeof(CustomPlayerLoopWindow));

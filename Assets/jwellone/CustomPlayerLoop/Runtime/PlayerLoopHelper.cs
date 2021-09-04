@@ -4,7 +4,7 @@ using System.IO;
 using UnityEngine;
 using UnityEngine.LowLevel;
 
-namespace UniExtension
+namespace jwellone
 {
 	public static class PlayerLoopHelper
 	{
