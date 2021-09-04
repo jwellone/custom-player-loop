@@ -14,7 +14,7 @@ This feature is one of the "j1Tech" developed by jwellone Inc for Unity.
 
 ## GET STARTED
 - Import the package.
-- "UniExtensions > Window > Custom Player Loop" Choose.
+- "jwellone > Window > Custom Player Loop" Choose.
 - From the items in the custom area, uncheck the items you want to disable. 
   When you run the editor, the display of the current area is updated to show only the items that are running.
 - Press the Apply button to save Custom PlayerLoop Settings.asset.
