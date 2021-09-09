@@ -27,6 +27,6 @@ Developer:[Yasuhiko Usui.](https://github.com/UsuiYasuhiko-jw1)
 
 [![GitHub watchers](https://img.shields.io/github/watchers/jwellone/custom-player-loop.svg?style=social&label=Watch)](https://GitHub.com/jwellone/custom-player-loop/watchers/)
 [![GitHub stars](https://img.shields.io/github/stars/jwellone/custom-player-loop.svg?style=social&label=Stars)](https://GitHub.com/jwellone/custom-player-loop/stargazers)
-[![GitHub fork](https://img.shields.io/github/forks/jwellone/custom-player-loop.svg?style=social&label=Fork)](https://GitHub.com/jwellone/custom-player-loopt/network/members)
+[![GitHub fork](https://img.shields.io/github/forks/jwellone/custom-player-loop.svg?style=social&label=Fork)](https://GitHub.com/jwellone/custom-player-loop/network/members)
 [![Twitter](https://img.shields.io/twitter/follow/jwellone?label=Twitter&logo=twitter&style=social)](http://twitter.com/jwellone)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&style=plastic)](https://www.facebook.com/jwellone)
